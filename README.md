@@ -2,7 +2,7 @@
 
 Disciplina de Liguagens de Programação UFRJ
 
-# Linguagem de programação ML (Meta Language)
+# ML (Meta Language)
 
 ## Como rodar ML?
 
@@ -21,3 +21,6 @@ fun funName params = <exp>;
 ```
 fun cubo n = n * n * n;
 ```
+# Java
+
+# Prolog
