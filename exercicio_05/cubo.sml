@@ -1,0 +1,1 @@
+fun cubo n = n * n * n;
